@@ -3,3 +3,10 @@ tc2 passed
 tc3 fail
 tc4 fail
 tc5 passed
+
+tc6
+tc7
+tc8
+retest
+tc3
+tc
