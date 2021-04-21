@@ -1,5 +1,5 @@
-tc1
-tc2
-tc3
-tc4
-tc5
+tc1 passed
+tc2 passed
+tc3 fail
+tc4 fail
+tc5 passed
